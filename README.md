@@ -1,4 +1,4 @@
 # stratlytics-learning
 Learning
 <br>
-Author - Mukti Gouda
+Author - Mukti Gouda(Stratlytics)
